@@ -1,9 +1,9 @@
-numpy==2.0.2 
+numpy==1.26.4
 joblib 
 pefile 
 streamlit 
 xgboost 
-torch==2.2.2
+torch==
 scikit-learn 
 pyngrok 
 fpdf
