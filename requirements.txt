@@ -3,7 +3,7 @@ joblib
 pefile 
 streamlit 
 xgboost 
-torch==
+torch
 scikit-learn 
 pyngrok 
 fpdf
